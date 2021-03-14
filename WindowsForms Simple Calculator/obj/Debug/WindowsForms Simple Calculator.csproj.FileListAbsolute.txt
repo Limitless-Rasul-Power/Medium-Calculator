@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\bin\Debug\WindowsForms Simple Calculator.exe.config
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\bin\Debug\WindowsForms Simple Calculator.exe
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\bin\Debug\WindowsForms Simple Calculator.pdb
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\obj\Debug\WindowsForms Simple Calculator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\obj\Debug\WindowsForms_Simple_Calculator.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\obj\Debug\WindowsForms Simple Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\obj\Debug\WindowsForms Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\obj\Debug\WindowsForms Simple Calculator.exe
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\obj\Debug\WindowsForms Simple Calculator.pdb
+C:\Users\Admin\source\repos\WindowsForms Simple Calculator\WindowsForms Simple Calculator\obj\Debug\WindowsForms_Simple_Calculator.Form1.resources
